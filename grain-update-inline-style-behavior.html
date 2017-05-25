@@ -35,7 +35,7 @@
 				}
 			}
 
-			if (window.ShadyCSS && window.ShadyCSS.nativeCss === true) {
+			if (!window.ShadyCSS || (window.ShadyCSS && window.ShadyCSS.nativeCss === true)) {
 				var newStyleString = '';
 				for (var key in newStyle) {
 					if (newStyle.hasOwnProperty(key)) {
