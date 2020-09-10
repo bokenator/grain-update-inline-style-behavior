@@ -1,0 +1,23 @@
+{
+  "authors": [
+    "daKmoR"
+  ],
+  "bugs": {
+    "url": "https://github.com/daKmoR/grain-update-inline-style-behavior/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+	"@polymer/polymer": "2.0.1"
+  },
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/daKmoR/grain-update-inline-style-behavior",
+  "license": "MIT",
+  "main": "index.html",
+  "name": "grain-update-inline-style-behavior",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daKmoR/grain-update-inline-style-behavior.git"
+  },
+  "version": "v0.8.1"
+}
